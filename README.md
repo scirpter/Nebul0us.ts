@@ -68,13 +68,13 @@ Official Nebulous.io Bots made by Nyaa &amp; Klaro.
 
 
 ## Execute commands with only 1 bot
-###### <bot name> >> <command>
+	<bot name> >> <command>
 
 
 ## Current users with access
-* Nyaanity (Nyaa): 381843366683344897
-* Klaro: 424657032252096525
-* Offi: 924784693994479657
+	Nyaanity (Nyaa): 381843366683344897
+	Klaro: 424657032252096525
+	Offi: 924784693994479657
 
 
 # Changelog
