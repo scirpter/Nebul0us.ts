@@ -85,8 +85,8 @@ Official Nebulous.io Bots made by **Nyaa** &amp; **Klaro**.
 	[23th April, 2022] + Fixed bot being stuck at position
 	[23th April, 2022] + Added Item Targetting (alias plasma farm)
 	[23th April, 2022] + Added Hole Targetting (alias XP/mass farm)
-	[23th April, 2022] + Added Forced ID Join, no friendship required
-	[24th April, 2022] + Fixed Bot Detection, maxed out Max Connection Limit to 7/IP
+	[23th April, 2022] + Added Forced ID Join
+	[24th April, 2022] + Hotfix: Connection Limit
 	[27th April, 2022] + Added Server Crash Exploit (0d)
 	[27th April, 2022] + Added Public Lobby Hopper (alias mass advertiser)
 	[27th April, 2022] - Removed Server Crash Exploit (patched XD)
