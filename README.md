@@ -5,11 +5,11 @@ Official Nebulous.io Bots made by Nyaa &amp; Klaro.
 ### Commands
 * co
 	* Connect the bots to the server.
-
+\n
 
 * jo <lobby name | player id>
 	* Join a lobby. This does not require friendship with the target player ID, but requires them to set their visibility to Online.
-
+\n
 
 * en
 	* Enters or re-enters the game.
@@ -17,31 +17,31 @@ Official Nebulous.io Bots made by Nyaa &amp; Klaro.
 
 * rj
 	* Rejoin the current lobby. Also useful if the bots were kicked from the lobby.
-
+\n
 
 * de
 	* Desync the bots. Force disconnection from the server and stop sending/receiving network packets.
-
+\n
 
 * es
 	* Give some emotional support to the player and feed them. Most fun in FFAU.
-
+\n
 
 * tf
 	* Toggle farming plasma.
-
+\n
 
 * qu
 	* Softly exit the script.
-
+\n
 
 * ch <message>
 	* Send an in-game chat request.
-
+\n
 
 * em <index: 0-89>
 	* Send an emote request.
-
+\n
 
 * nom <max spectators | max players | enabled: 1/0>
 	* Moderator prevention. Detects e.g. unwanted spectates and instantly disconnects. Mods can force spectates ("force internal spectate"), even when inside a hidden lobby.
