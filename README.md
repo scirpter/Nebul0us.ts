@@ -3,7 +3,7 @@ Official Nebulous.io Bots made by Nyaa &amp; Klaro.
 
 
 ### Commands
-###### * co
+#### * co
 	* Connect the bots to the server.
 
 
