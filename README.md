@@ -9,8 +9,8 @@ Official Nebulous.io Bots made by Nyaa &amp; Klaro.
 
 ###### jo <lobby name | player id>
 	Join a lobby.
-	 This does not require friendship with the target player ID,
-	 but requires them to set their visibility to Online.
+	This does not require friendship with the target player ID,
+	but requires them to set their visibility to Online.
 
 
 ###### en
