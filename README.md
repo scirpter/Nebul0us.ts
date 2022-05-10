@@ -82,22 +82,21 @@ Continuation of **Ne6ul0us**: Official Nebulous.io Bots made by **Nyaa** &amp; *
 	[23th April, 2022] + Added Join Hidden Lobby
 	[23th April, 2022] + Added Autorejoin
 	[23th April, 2022] + Fixed VPN & mobile compatibility
-	[23th April, 2022] + Fixed bot being stuck at position
-	[23th April, 2022] + Added Item Targetting (alias plasma farm)
-	[23th April, 2022] + Added Hole Targetting (alias XP/mass farm)
+	[23th April, 2022] + Fixed bot pos desync
+	[23th April, 2022] + Added Item Targetting
+	[23th April, 2022] + Added Hole Targetting
 	[23th April, 2022] + Added Forced ID Join
 	[24th April, 2022] + Hotfix: Connection Limit
 	[27th April, 2022] + Added Server Crash Exploit (0d)
 	[27th April, 2022] + Added Public Lobby Hopper (alias mass advertiser)
 	[27th April, 2022] - Removed Server Crash Exploit (patched XD)
-	[3th May, 2022] - Removed Public Lobby Hopper (risky)
-	[3th May, 2022] + Completely fixed Control Packet bug & Bot Movement Stuttering
+	[3th May, 2022] - Removed Public Lobby Hopper (boring)
+	[3th May, 2022] + Fixed: Control Packet
 	[3th May, 2022] + Added Prettier Console Printing
-	[8th May, 2022] + Added Auto Mass Collection if no tasks like farm are running
+	[8th May, 2022] + Added Auto Mass Collection
 	[8th May, 2022] + Added Player Emotional Support
-	[9th May, 2022] + Fixed Rejoin Looping on forced enter command
+	[9th May, 2022] + Fixed Enter Looping
 	[9th May, 2022] + Added Bot Rejoin command
 	[9th May, 2022] + Added 1-Bot-Only Command Execution
 	[10th May, 2022] + Added __A-B-TKN-I **DEV ONLY**
-	[10th May, 2022] + Added Packet Sharing to prevent player position desync
-
+	[10th May, 2022] + Added NetFam: Packet Sharing
