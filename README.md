@@ -78,26 +78,26 @@ Official Nebulous.io Bots made by Nyaa &amp; Klaro.
 
 
 # Changelog
-[23th April, 2022] + Release (0.1.0)
-[23th April, 2022] + Added Join Hidden Lobby
-[23th April, 2022] + Added Autorejoin
-[23th April, 2022] + Fixed VPN & mobile compatibility
-[23th April, 2022] + Fixed bot being stuck at position
-[23th April, 2022] + Added Item Targetting (alias plasma farm)
-[23th April, 2022] + Added Hole Targetting (alias XP/mass farm)
-[23th April, 2022] + Added Forced ID Join, no friendship required
-[24th April, 2022] + Fixed Bot Detection, maxed out Max Connection Limit to 7/IP
-[27th April, 2022] + Added Server Crash Exploit (0d)
-[27th April, 2022] + Added Public Lobby Hopper (alias mass advertiser)
-[27th April, 2022] - Removed Server Crash Exploit (patched XD)
-[3th May, 2022] - Removed Public Lobby Hopper (risky)
-[3th May, 2022] + Completely fixed Control Packet bug & Bot Movement Stuttering
-[3th May, 2022] + Added Prettier Console Printing
-[8th May, 2022] + Added Auto Mass Collection if no tasks like farm are running
-[8th May, 2022] + Added Player Emotional Support
-[9th May, 2022] + Fixed Rejoin Looping on forced enter command
-[9th May, 2022] + Added Bot Rejoin command
-[9th May, 2022] + Added 1-Bot-Only Command Execution
-[10th May, 2022] + Added Ad-Boost Token Injection
-[10th May, 2022] + Added Packet Sharing to prevent player position desync
+	[23th April, 2022] + Release (0.1.0)
+	[23th April, 2022] + Added Join Hidden Lobby
+	[23th April, 2022] + Added Autorejoin
+	[23th April, 2022] + Fixed VPN & mobile compatibility
+	[23th April, 2022] + Fixed bot being stuck at position
+	[23th April, 2022] + Added Item Targetting (alias plasma farm)
+	[23th April, 2022] + Added Hole Targetting (alias XP/mass farm)
+	[23th April, 2022] + Added Forced ID Join, no friendship required
+	[24th April, 2022] + Fixed Bot Detection, maxed out Max Connection Limit to 7/IP
+	[27th April, 2022] + Added Server Crash Exploit (0d)
+	[27th April, 2022] + Added Public Lobby Hopper (alias mass advertiser)
+	[27th April, 2022] - Removed Server Crash Exploit (patched XD)
+	[3th May, 2022] - Removed Public Lobby Hopper (risky)
+	[3th May, 2022] + Completely fixed Control Packet bug & Bot Movement Stuttering
+	[3th May, 2022] + Added Prettier Console Printing
+	[8th May, 2022] + Added Auto Mass Collection if no tasks like farm are running
+	[8th May, 2022] + Added Player Emotional Support
+	[9th May, 2022] + Fixed Rejoin Looping on forced enter command
+	[9th May, 2022] + Added Bot Rejoin command
+	[9th May, 2022] + Added 1-Bot-Only Command Execution
+	[10th May, 2022] + Added Ad-Boost Token Injection
+	[10th May, 2022] + Added Packet Sharing to prevent player position desync
 
