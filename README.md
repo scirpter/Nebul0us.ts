@@ -1,9 +1,9 @@
 # dgram_reverse_partial
 Official Nebulous.io Bots made by Nyaa &amp; Klaro.
 
-### __Commands__
+### Commands
 * co
-	> Connect the bots to the server.
+	>> Connect the bots to the server.
 
 * jo <lobby name | player id>
 	> Join a lobby. This does not require friendship with the target player ID, but requires them to set their visibility to Online.
