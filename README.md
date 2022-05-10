@@ -1,7 +1,7 @@
 # dgram_reverse_partial
 Official Nebulous.io Bots made by Nyaa &amp; Klaro.
 
-### Commands
+### __Commands__
 * co
 	> Connect the bots to the server.
 
