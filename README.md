@@ -83,11 +83,11 @@ Continuation of **Ne6ul0us**: Official Nebulous.io Bots made by **Nyaa** &amp; *
 	[23th April, 2022] + Added Autorejoin
 	[23th April, 2022] + Fixed VPN & mobile compatibility
 	[23th April, 2022] + Fixed bot pos desync
-	[23th April, 2022] + Added Item Targetting
+	[23th April, 2022] + Added Item Targetting (plasma, ...)
 	[23th April, 2022] + Added Hole Targetting
 	[23th April, 2022] + Added Forced ID Join
 	[24th April, 2022] + Hotfix: Connection Limit
-	[27th April, 2022] + Added Server Crash Exploit (0d)
+	[27th April, 2022] + Added Server Crash Exploit
 	[27th April, 2022] + Added Public Lobby Hopper (alias mass advertiser)
 	[27th April, 2022] - Removed Server Crash Exploit (patched XD)
 	[3th May, 2022] - Removed Public Lobby Hopper (boring)
