@@ -98,6 +98,6 @@ Continuation of **Ne6ul0us**: Official Nebulous.io Bots made by **Nyaa** &amp; *
 	[9th May, 2022] + Fixed Rejoin Looping on forced enter command
 	[9th May, 2022] + Added Bot Rejoin command
 	[9th May, 2022] + Added 1-Bot-Only Command Execution
-	[10th May, 2022] + _A-B-TKN-I_ **DEV ONLY**
+	[10th May, 2022] + Added __A-B-TKN-I **DEV ONLY**
 	[10th May, 2022] + Added Packet Sharing to prevent player position desync
 
