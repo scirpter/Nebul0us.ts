@@ -67,8 +67,8 @@ Official Nebulous.io Bots made by Nyaa &amp; Klaro.
 	**DEV ONLY**
 
 
-## Execute commands with only 1 bot
-	<bot name> >> <command>
+## Execute commands with specific bot
+	<bot name | internal bot ID (0/1/2/...)> >> <command>
 
 
 ## Current users with access
