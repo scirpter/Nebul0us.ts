@@ -1,5 +1,5 @@
 # dgram_reverse_partial (0.3.1)
-Official Nebulous.io Bots made by **Nyaa** &amp; **Klaro**.
+Continuation of **Ne6ul0us**: Official Nebulous.io Bots made by **Nyaa** &amp; **Klaro**.
 
 
 ### Commands
