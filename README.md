@@ -72,9 +72,9 @@ Continuation of **Ne6ul0us**: Official Nebulous.io Bots made by **Nyaa** &amp; *
 
 
 ## Current users with access
-	Nyaanity (Nyaa): 381843366683344897
-	Klaro: 424657032252096525
-	Offi: 924784693994479657
+	Nyaanity (Nyaa, Developer): 381843366683344897
+	Klaro (Developer): 424657032252096525
+	Offi (Simp, Certified Idiot): 924784693994479657
 
 
 # Changelog
@@ -96,7 +96,7 @@ Continuation of **Ne6ul0us**: Official Nebulous.io Bots made by **Nyaa** &amp; *
 	[8th May, 2022] + Added Auto Mass Collection
 	[8th May, 2022] + Added Player Emotional Support
 	[9th May, 2022] + Fixed Enter Looping
-	[9th May, 2022] + Added Bot Rejoin command
+	[9th May, 2022] + Added Bot Rejoin Lobby command
 	[9th May, 2022] + Added 1-Bot-Only Command Execution
 	[10th May, 2022] + Added __A-B-TKN-I **DEV ONLY**
 	[10th May, 2022] + Added NetFam: Packet Sharing
