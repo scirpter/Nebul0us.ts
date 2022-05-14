@@ -29,7 +29,7 @@ Continuation of the **Nebul0us** hack: Official Nebulous.io Bots made by **Nyaan
 	Force disconnection from the server and stop sending/receiving network packets.
 
 
-###### es
+###### es <player name | player id>
 	Give some emotional support to the player and feed them.
 	Most fun in FFAU.
 
@@ -50,7 +50,7 @@ Continuation of the **Nebul0us** hack: Official Nebulous.io Bots made by **Nyaan
 	Send an emote request.
 
 
-###### nom <max spectators | max players | enabled: y/N>
+###### nom <max spectators> <max players> <enabled: y/N>
 	Moderator prevention.
 	Detects e.g. unwanted spectates and instantly disconnects.
 	Mods can force spectates ("force internal spectate"),
