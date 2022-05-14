@@ -3,7 +3,7 @@ Continuation of the **Nebul0us** hack: Official Nebulous.io Bots made by **Nyaan
 
 
 ## How to use these bots? Where is the code?
-	> This is a private project and is not avaibale to the public.
+>	This is a private project and is not avaibale to the public.
 	Don't try to google the bots or search for a tutorial on how to this,
 	because you won't find anything.
 	DM Nyaanity#0001 on Discord to purchase the full source code and get access to our group,
