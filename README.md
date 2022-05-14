@@ -11,18 +11,12 @@ Continuation of the **Nebul0us** hack: Official Nebulous.io Bots made by **Nyaan
 
 
 ### Features
-	* Most efficient solo XP farming
-	* Automation:
-		* Plasma Farmer -> Send a signed-in bot into a lobby to have them farm plasma for you while you're AFK.
-		Plasma is automatically detected on the whole map.
-		* XP Farmer -> Send a signed-in bot into a lobby to have them farm XP for you while you're AFK.
-		Holes are automatically detected on the whole map.
-	* Emotional Support:
-		* Player Feeder -> Have bots feed a specific player and take over lobbies with no effort.
-	* Anti-Moderator:
-		* Joins -> Detect joins by moderators and disconnect INSTANTLY.
-		* Unwanted Spectates -> Detect spectates that most likely come from a moderator and disconnect INSTANTLY.
-		* Moderator Name Flag -> Detects moderator names like Gaydric or Frog.
+* Most efficient solo XP & Plasma farming
+* Moderator Detection
+* Auto Plasma & XP Farming
+* Player Feeding
+* Chat Commands
+* Full-Customizable Chat Bot
 
 
 ### Commands
