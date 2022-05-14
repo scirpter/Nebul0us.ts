@@ -1,5 +1,5 @@
 # LOVELETTER.io (0.3.1)
-Continuation of the **Nebul0us** hack: Official Nebulous.io Bots made by **Nyaanity (Nyaa)** &amp; **Klaro**.
+Continuation of the **Nebul0us** hack: Official Nebulous.io Bots made by **Nyaanity** &amp; **Klaro**.
 
 
 ### Commands
