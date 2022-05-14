@@ -10,7 +10,7 @@ Continuation of the **Nebul0us** hack: Official Nebulous.io Bots made by **Nyaan
 	where we release newest updates for this hack.
 
 
-### Features
+## Features
 * Most efficient solo XP & Plasma farming
 * Moderator Detection
 * Auto Plasma & XP Farming
