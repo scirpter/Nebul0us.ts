@@ -1,10 +1,3 @@
-# Nebul0us
-
-Continuation of the **Nebulous.io** hack: Official bots made by **Nyaanity**.
-
-<br />
-<br />
-
 # QNA
 
 ### How to use these bots?
