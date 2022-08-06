@@ -16,8 +16,9 @@ We also have a tutorial on how to set the bots up on there.
 ### Why do I have to pay for this?
 
 No one is offering the bots for public use but us.
-We're offering you bots that can easily ruin public lobbies,
+We're offering you bots that can easily ruin lobbies,
 that can farm plasma **MULTIPLE TIMES THE WORTH YOU PAY FOR THE BOTS** (speaking about millions of plasma),
+easily dominate leaderboards
 and may save you a lot of time farming XP.
 We wish to at least have our work paid off if we're gonna let others use it.
 
