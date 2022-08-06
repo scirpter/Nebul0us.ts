@@ -2,6 +2,9 @@
 
 Continuation of the **Nebulous.io** hack: Official bots made by **Nyaanity**.
 
+<br />
+<br />
+
 # QNA
 
 ### How to use these bots?
@@ -29,6 +32,9 @@ You may purchase the code by messaging the owner of our Discord server **Nyaanit
 No.
 The script is HWID-bound,
 means that you can't simply share between devices.
+
+<br />
+<br />
 
 # Commands (<> = required, [] = optional, | = OR)
 
