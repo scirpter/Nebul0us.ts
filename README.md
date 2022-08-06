@@ -40,7 +40,7 @@ Lets the bots play when a lobby was joined.
 ```
 Rejoin a lobby or a player.
 Only works if the connection session is still the same
-and the **join** command was used.
+and the "join" command was used.
 ```
 
 ###### desync
