@@ -22,7 +22,7 @@ We wish to at least have our work paid off if we're gonna let others use it.
 
 The code is located inside the **./build** folder.
 It is heavily obfuscated to protect against code stealing or licence bypassing.
-You may purchase the code by messaging the owner of our Discord server **Nyaanity#0001**.
+You may purchase the code by messaging the owner of our Discord server **Nyaanity#0001** (https://discord.gg/YjnAQq3BRN).
 
 ### If I buy it, can my friend use it too?
 
