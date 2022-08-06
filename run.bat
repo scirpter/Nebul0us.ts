@@ -1,4 +1,4 @@
-@echo of
+@echo off
 
 cd %cd%
 
