@@ -1,1 +1,1 @@
-*.js linguist-language=JavaScript
+build/*.js linguist-language=JavaScript
