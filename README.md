@@ -60,6 +60,12 @@ Join a lobby or a player.
 Lets the bots play when a lobby was joined.
 ```
 
+###### clear
+
+```
+Clears the console.
+```
+
 ###### rejoin
 
 ```
