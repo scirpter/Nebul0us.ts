@@ -3,7 +3,7 @@
 ### How to use these bots?
 
 To use this,
-you must purchase a license inside our Discord server https://discord.gg/YjnAQq3BRN.
+you must purchase a license inside our Discord server (https://discord.gg/YjnAQq3BRN).
 
 ### Why do I have to pay for this?
 
