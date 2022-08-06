@@ -19,6 +19,7 @@ You may purchase the code by messaging the owner of our Discord server **Nyaanit
 
 ###### connect
 
+>
 Connect the bots to the server.
 
 ###### join <lobby name | player ID>
