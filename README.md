@@ -16,7 +16,7 @@ No one is offering the bots for public use but us.
 We're offering you bots that can easily ruin public lobbies,
 that can farm plasma **MULTIPLE TIMES THE WORTH YOU PAY FOR THE BOTS** (speaking about millions of plasma),
 and may save you a lot of time farming XP.
-We wish to have our work paid off at least if we're gonna let others use it.
+We wish to at least have our work paid off if we're gonna let others use it.
 
 ### Where is the code?
 
