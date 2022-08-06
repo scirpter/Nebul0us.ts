@@ -4,7 +4,6 @@
 
 To use this,
 you must purchase a license inside our Discord server https://discord.gg/YjnAQq3BRN.
-We also have a tutorial on how to set the bots up on there.
 
 ### Why do I have to pay for this?
 
