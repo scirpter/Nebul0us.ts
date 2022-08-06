@@ -191,7 +191,7 @@ Enable/disable sending "unnecessary" packets.
 Halts every running task not in importance like player movement requests.
 ```
 
-## Execute commands with specific bot
+### Execute commands with specific bot
 
 ```
 <bot name> >> <command>
