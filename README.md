@@ -18,8 +18,9 @@ You may purchase the code by messaging the owner of our Discord server **Nyaanit
 ### Commands (<> = required, [] = optional, | = OR)
 
 ###### connect
+
 ```
-Connect the bots to the server.
+Connect the bots to the server. Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 ```
 
 ###### join <lobby name | player ID>
