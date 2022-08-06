@@ -24,6 +24,12 @@ The code is located inside the **./build** folder.
 It is heavily obfuscated to protect against code stealing or licence bypassing.
 You may purchase the code by messaging the owner of our Discord server **Nyaanity#0001**.
 
+### If I buy it, can my friend use it too?
+
+No.
+The script is HWID-bound,
+means that you can't simply share between devices.
+
 # Commands (<> = required, [] = optional, | = OR)
 
 ###### connect
