@@ -15,7 +15,7 @@ The code is located inside the **./build** folder.
 It is heavily obfuscated to protect against code stealing or licence bypassing.
 You may purchase the code by messaging the owner of our Discord server **Nyaanity#0001**.
 
-### Commands (<> = required, [] = optional, | = OR)
+## Commands (<> = required, [] = optional, | = OR)
 
 ###### connect
 
