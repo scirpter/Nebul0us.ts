@@ -2,20 +2,29 @@
 
 Continuation of the **Nebulous.io** hack: Official bots made by **Nyaanity**.
 
-## How to use these bots?
+# Faq
 
-This is a private project which is "not avaibale to the public".
+### How to use these bots?
+
 To use this,
 you must purchase a license inside our Discord server https://discord.gg/YjnAQq3BRN.
 We also have a tutorial on how to set the bots up on there.
 
-## Where is the code?
+### Why do I have to pay for this?
+
+No one else is offering bots for public use but us.
+We're offering you bots that can easily ruin public lobbies,
+that can farm plasma **MULTIPLE TIMES THE WORTH YOU PAY FOR THE BOTS** (speaking about millions of plasma),
+and may save you a lot of time farming XP.
+We wish to have our work paid off at least if we're gonna let others use it.
+
+### Where is the code?
 
 The code is located inside the **./build** folder.
 It is heavily obfuscated to protect against code stealing or licence bypassing.
 You may purchase the code by messaging the owner of our Discord server **Nyaanity#0001**.
 
-## Commands (<> = required, [] = optional, | = OR)
+# Commands (<> = required, [] = optional, | = OR)
 
 ###### connect
 
