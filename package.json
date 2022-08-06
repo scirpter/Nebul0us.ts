@@ -14,7 +14,7 @@
     "dev": "ts-node src/main.ts",
     "test": "ts-node src/tests/test.ts",
     "build": "tsc",
-    "prod": "node production/main.js",
+    "prod": "node build/main.js",
     "p4": "ts-node src/private/p4.ts"
   },
   "dependencies": {
