@@ -12,7 +12,7 @@ We also have a tutorial on how to set the bots up on there.
 
 ### Why do I have to pay for this?
 
-No one else is offering bots for public use but us.
+No one else is offering the bots for public use but us.
 We're offering you bots that can easily ruin public lobbies,
 that can farm plasma **MULTIPLE TIMES THE WORTH YOU PAY FOR THE BOTS** (speaking about millions of plasma),
 and may save you a lot of time farming XP.
