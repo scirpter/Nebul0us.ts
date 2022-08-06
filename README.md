@@ -9,6 +9,12 @@ To use this,
 you must purchase a license inside our Discord server https://discord.gg/YjnAQq3BRN.
 We also have a tutorial on how to set the bots up on there.
 
+## Where is the code?
+
+The code is located inside the "./build" folder.
+It is heavily obfuscated to protect against code stealing or licence bypassing.
+You may purchase the code by messaging the owner of our Discord server "Nyaanity#0001".
+
 ### Commands (<> = required, [] = optional, | = OR)
 
 ###### connect
