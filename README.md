@@ -34,6 +34,10 @@ No.
 The script is HWID-bound,
 means that you can't simply share between devices.
 
+### How do I set the bots up if I have access?
+
+Full installation tutorial: https://www.youtube.com/watch?v=IC2kKSdM6Ik
+
 <br />
 <br />
 
