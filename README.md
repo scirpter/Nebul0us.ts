@@ -33,7 +33,7 @@ Full installation tutorial: https://www.youtube.com/watch?v=IC2kKSdM6Ik
 ### Where do I download the bots?
 
 Once you've purchased a license,
-you will be given a special role inside our discord server (https://discord.gg/YjnAQq3BRN)
+you will be given a special role (**VIP**) inside our discord server (https://discord.gg/YjnAQq3BRN)
 that will give you permission to our **#download** channel.
 Inside there is a download link of the bot file.
 
