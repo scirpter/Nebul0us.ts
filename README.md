@@ -217,9 +217,9 @@ Bypass this limit by using a VPN.
 
 ###### Example
 
-✔️ You play + 6 bots (no VPN)
-✔️ You don't play + 7 bots (no VPN)
-⛔ You play + 7 bots -- 1 bot will disconnect, over 7 clients (no VPN)
-⛔ You have 2 devices, you don't play and run 14 bots (no VPN)
-✔️ You have 2 devices, you don't play and run 14 bots (with VPN)
-✔️ You have 2 devices, you play and run 13 bots and only 6 bots on the device u play with (with VPN)
+✔️ You play + 6 bots (no VPN) <br />
+✔️ You don't play + 7 bots (no VPN) <br />
+⛔ You play + 7 bots -- 1 bot will disconnect, over 7 clients (no VPN) <br />
+⛔ You have 2 devices, you don't play and run 14 bots (no VPN) <br />
+✔️ You have 2 devices, you don't play and run 14 bots (with VPN) <br />
+✔️ You have 2 devices, you play and run 13 bots and only 6 bots on the device u play with (with VPN) <br />
