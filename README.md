@@ -205,3 +205,21 @@ Halts every running task not in importance like player movement requests.
 ```
 <bot name> >> <command>
 ```
+
+<br />
+<br />
+
+# Relevant information
+
+You can only have 7 clients connected to a server concurrently.
+This limit is not set by us, but by Nebulous.
+Bypass this limit by using a VPN.
+
+###### Example
+
+✔️ You play + 6 bots (no VPN)
+✔️ You don't play + 7 bots (no VPN)
+⛔ You play + 7 bots -- 1 bot will disconnect, over 7 clients (no VPN)
+⛔ You have 2 devices, you don't play and run 14 bots (no VPN)
+✔️ You have 2 devices, you don't play and run 14 bots (with VPN)
+✔️ You have 2 devices, you play and run 13 bots and only 6 bots on the device u play with (with VPN)
