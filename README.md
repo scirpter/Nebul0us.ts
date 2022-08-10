@@ -213,7 +213,7 @@ Halts every running task not in importance like player movement requests.
 
 You can only have 7 clients connected to a server concurrently.
 This limit is not set by us, but by Nebulous.
-Bypass this limit by using a VPN.
+Bypass this limit by using a VPN and multiple devices.
 
 ###### Example
 
