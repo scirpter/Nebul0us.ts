@@ -22,9 +22,10 @@ You may purchase the code by messaging the owner of our Discord server **Nyaanit
 
 ### If I buy it, can my friend use it too?
 
-No.
-The script is HWID-bound,
-means that you can't simply share between devices.
+Yes.
+Once you've purchased a license,
+you can invite a friend and they will receive a license too,
+for free.
 
 ### How do I set the bots up if I have access?
 
