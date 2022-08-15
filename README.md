@@ -15,12 +15,6 @@ easily dominate leaderboards
 and may save you a lot of time farming XP.
 We wish to at least have our work paid off if we're gonna let others use it.
 
-### Where is the code?
-
-The code is located inside the **./build** folder.
-It is heavily obfuscated to protect against code stealing or licence bypassing.
-You may purchase the code by messaging the owner of our Discord server **Nyaanity#0001** (https://discord.gg/YjnAQq3BRN).
-
 ### If I buy it, can my friend use it too?
 
 Yes.
@@ -242,7 +236,3 @@ To protect against any issues or fraud that may occur, we are logging:
 
 If you do not wish to have your data collected,
 please delete the script from your computer (if you have it) permanently and do not use it anymore.
-
-# How To Refund
-
-No refund.
