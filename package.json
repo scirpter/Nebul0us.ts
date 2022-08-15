@@ -19,6 +19,13 @@
     "prod": "node build/main.js",
     "p4": "ts-node src/private/p4.ts"
   },
+  "author": {
+    "name": "Nyaanity"
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/Nyaanity/Nebul0us"
+  },
   "dependencies": {
     "@vercel/ncc": "^0.34.0",
     "glob": "^8.0.3",

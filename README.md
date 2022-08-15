@@ -4,6 +4,7 @@
 
 To use this,
 you must purchase a license inside our Discord server (https://discord.gg/YjnAQq3BRN).
+Please message the owner of the Discord server **Nyaanity#0001** to buy.
 
 ### Why do I have to pay for this?
 
