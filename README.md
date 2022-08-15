@@ -33,7 +33,7 @@ you will be given a special role (**VIP**) inside our discord server (https://di
 that will give you permission to our **#download** channel.
 Inside there is a download link of the bot file.
 
-### Can I try the bots out before buying (or have them for free? "plz i'm famous")?
+### Can I try the bots out before buying (or "can i haz for free? plz me is famous")?
 
 No.
 You can't use the bots before you buy a license.
