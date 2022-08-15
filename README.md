@@ -39,6 +39,7 @@ No.
 You can't use the bots before you buy a license.
 We can never know who you are or if you're just a moderator trying to simp for cute Greg.
 Buy it or leave it.
+We don't care about what music u produce or how many followers u have on ur lame ass instagram account (speaking from experience).
 
 <br />
 <br />
