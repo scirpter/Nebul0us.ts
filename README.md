@@ -38,6 +38,7 @@ Inside there is a download link of the bot file.
 No.
 You can't use the bots before you buy a license.
 We can never know who you are or if you're just a moderator trying to simp for cute Greg.
+Buy it or leave it.
 
 <br />
 <br />
