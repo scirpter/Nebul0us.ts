@@ -242,3 +242,7 @@ To protect against any issues or fraud that may occur, we are logging:
 
 If you do not wish to have your data collected,
 please delete the script from your computer (if you have it) permanently and do not use it anymore.
+
+# How To Refund
+
+No refund.
