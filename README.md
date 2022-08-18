@@ -205,6 +205,13 @@ Enable/disable sending "unnecessary" packets.
 Halts every running task not in importance like player movement requests.
 ```
 
+###### hexsearch <hexadecimal: Not-indexed hex>
+
+```
+This will search for all packets that include this pattern and print them out.
+Only kind of useful if you really know what you're doing.
+```
+
 ### Execute commands with specific bot
 
 ```
