@@ -208,7 +208,7 @@ Halts every running task not in importance like player movement requests.
 ###### hexsearch <hexadecimal: Not-indexed hex>
 
 ```
-This will search for all packets that include this pattern and print them out.
+This will search for all packets that have been received in the script's lifetime including this pattern and print them out.
 Only kind of useful if you really know what you're doing.
 ```
 
