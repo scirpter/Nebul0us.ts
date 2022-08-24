@@ -1,3 +1,10 @@
+# How to install (for noobs)
+
+https://youtu.be/IC2kKSdM6Ik
+
+<br />
+<br />
+
 # Setup
 
 ##### Install requirements
