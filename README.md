@@ -29,14 +29,7 @@ npm run p4
 
 # My motivation
 
-<ul>
-<li>
-a
-</li>
-</ul>
-
-<br />
-<br />
+<p>"Nyaa can't even code"</p>
 
 # Commands (<> = required, [] = optional, | = OR)
 
