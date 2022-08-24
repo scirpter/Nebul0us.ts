@@ -37,7 +37,7 @@ npm run p4
         To avenge my first ever account that that was banned for no reason. (12409385)
         I spent many years on it.
         U know, I wouldn't even have started to learn to code if this ban didn't happen. :)
-        So thank you, Victor!
+        So thank you, Victor, and Greg, and all the other Mods!
         You gave me a direction in life.
     </li>
 </ul>
