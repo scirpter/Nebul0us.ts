@@ -31,7 +31,7 @@ npm run p4
 
 <ul>
     <li>
-        <p>"Nyaa can't even code"</p> ~ Victor
+        <p>"Nyaa can't even code" ~ Victor</p>
     </li>
     <li>
         To avenge my first ever account that that was banned for no reason. (12409385)
