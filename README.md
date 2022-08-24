@@ -29,8 +29,11 @@ npm run p4
 
 # My motivation
 
-<p>"Nyaa can't even code"<p /> ~ Victor
-*BANS FOR NO REASON*
+<ul>
+<li>
+a
+</li>
+</ul>
 
 <br />
 <br />
