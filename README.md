@@ -18,7 +18,7 @@ npm run dev
 npm run prod
 ```
 
-##### Obfuscate (for production, results code performance loss)
+##### Obfuscate (for production, results in code performance loss)
 
 ```
 npm run p4
@@ -29,7 +29,8 @@ npm run p4
 
 # My motivation
 
-<p>Nyaa can't even code<p /> ~ Victor
+<p>"Nyaa can't even code"<p /> ~ Victor
+*BANS FOR NO REASON*
 
 <br />
 <br />
