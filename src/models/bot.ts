@@ -287,7 +287,6 @@ class Bot {
             this.sock?.send(controlPacket.write(), 27900, this.app.server);
             this.sock?.send(controlPacket.blobPatrol(), 27900, this.app.server);
 
-            // TODO: console.log this shit
             this.tickct = (this.tickct + 1) % 256;
         }
     }
