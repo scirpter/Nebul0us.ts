@@ -31,7 +31,7 @@ npm run p4
 
 MIT.
 Feel free to use any of this code for your project,
-but please include the LICENSE!
+but please include the LICENSE or credits!
 
 <br />
 <br />
