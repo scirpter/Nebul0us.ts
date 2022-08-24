@@ -311,7 +311,7 @@ console.clear();
 process.stdout.write(
     `${String.fromCharCode(
         27
-    )}]0;Get bots here: https://discord.gg/YjnAQq3BRN${String.fromCharCode(7)}`
+    )}]0;Source: https://github.com/Nyaanity/Nebul0us${String.fromCharCode(7)}`
 );
 LOG("Init", "@Nebul0us ~ Source: https://github.com/Nyaanity/Nebul0us");
 
