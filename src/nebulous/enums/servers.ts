@@ -1,0 +1,13 @@
+export enum Server {
+    US_EAST = "45.56.113.95",
+    US_WEST = "45.79.69.110",
+    EUROPE = "172.105.248.252",
+    SOUTH_KOREA = "52.79.53.242",
+    ASIA = "139.162.49.99",
+    SOUTH_AMERICA = "54.94.231.111",
+    AUSTRALIA = "45.79.238.85",
+    JAPAN = "139.162.86.191",
+    MIDDLE_EAST = "15.185.65.160",
+    SOUTH_AFRICA = "13.245.48.94",
+    UNKNOWN = "194.195.115.5", // DEBUG or DEBUG_GLOBAL, idc
+}
