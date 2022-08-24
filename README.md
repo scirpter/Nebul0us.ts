@@ -43,10 +43,10 @@ but please include the LICENSE!
         <p>"Nyaa can't even code" ~ Victor, few years ago</p>
     </li>
     <li>
-        To avenge my first ever account that that was banned for no reason. (12409385)
+        To avenge my first ever account that that was banned for no reason (12409385).
         I spent many years on it.
         U know, I wouldn't even have started to learn to code if this ban didn't happen. :)
-        So thank you, Victor, and Greg, and all the other Mods!
+        So thank you, Victor, Greg, and all the other Mods!
         You gave me a direction in life.
     </li>
 </ul>
