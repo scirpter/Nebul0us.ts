@@ -1,46 +1,35 @@
-# QNA
+# Setup
 
-### How to use these bots?
+##### Install requirements
 
-To use this,
-you must purchase a license inside our Discord server (https://discord.gg/YjnAQq3BRN).
-Please message the owner of the Discord server **Nyaanity#0001** to buy.
+```
+npm i
+```
 
-### Why do I have to pay for this?
+##### Run (development build)
 
-No one is offering the bots for public use but us.
-We're offering you bots that can easily ruin lobbies,
-that can farm plasma **MULTIPLE TIMES THE WORTH YOU PAY FOR THE BOTS** (speaking about millions of plasma),
-easily dominate leaderboards
-and may save you a lot of time farming XP.
-We wish to at least have our work paid off if we're gonna let others use it.
+```
+npm run dev
+```
 
-### If I buy it, can my friend use it too?
+##### Run (production build)
 
-Yes.
-Once you've purchased a license,
-you can invite a friend and they will receive a license too,
-for free.
+```
+npm run prod
+```
 
-### How do I set the bots up if I have access?
+##### Obfuscate (for production, results code performance loss)
 
-Full installation tutorial: https://www.youtube.com/watch?v=IC2kKSdM6Ik
+```
+npm run p4
+```
 
-### Where do I download the bots?
+<br />
+<br />
 
-Once you've purchased a license,
-you will be given a special role (**VIP**) inside our discord server (https://discord.gg/YjnAQq3BRN)
-that will give you permission to our **#download** channel.
-Inside there is a download link of the bot file.
+# My motivation
 
-### Can I try the bots out before buying (or "can i haz for free? plz me is famous")?
-
-No.
-You can't use the bots before you buy a license.
-We can never know who you are or if you're just a moderator trying to simp for cute Greg.
-**Buy it or leave it.**
-We don't care about what music u produce or if u have 40k+ followers on ur lame ass instagram account (speaking from experience),
-that doesn't make u any better than anyone else, nor does this give u any extra privileges.
+<p>Nyaa can't even code<p /> ~ Victor
 
 <br />
 <br />
