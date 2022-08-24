@@ -27,6 +27,15 @@ npm run p4
 <br />
 <br />
 
+# License
+
+MIT.
+Feel free to use any of this code for your project,
+but please include the LICENSE!
+
+<br />
+<br />
+
 # My motivation
 
 <ul>
@@ -236,19 +245,3 @@ Bypass this limit by using a VPN and multiple devices.
 ✔️ You have 2 devices, you don't play and run 14 bots on the same server (with VPN) <br />
 ✔️ You have 2 devices, you play and run 13 bots and only 6 bots on the device u play with on the same server (with VPN) <br />
 ✔️ You don't play and you run 14 bots, half of them on another server (no VPN) <br />
-
-<br />
-<br />
-
-# User Data Collection
-
-To protect against any issues or fraud that may occur, we are logging:
-
--   IP address
--   User agent
--   System name
--   Hostname
--   Platform (Windows, ...)
-
-If you do not wish to have your data collected,
-please delete the script from your computer (if you have it) permanently and do not use it anymore.
