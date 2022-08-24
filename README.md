@@ -36,7 +36,9 @@ npm run p4
     <li>
         To avenge my first ever account that that was banned for no reason. (12409385)
         I spent many years on it.
-        U know, this all wouldn't be happening if this ban hadn't happened !!
+        U know, I wouldn't even have started to learn to code if this ban didn't happen. :)
+        So thank you, Victor!
+        You gave me a direction in life.
     </li>
 </ul>
 
