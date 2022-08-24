@@ -257,7 +257,7 @@ export class ConnectResult2 extends Packet {
 
         this.bot.connectionState = ConnectionState.CONNECTED;
         OK(
-            "CR2",
+            "Connect Result",
             `${this.bot.name} connected (${this.bot.internalID + 1}/${
                 this.bot.app.bots.length
             })`
@@ -423,7 +423,7 @@ export class ClanChat extends Packet {
         let playerId = bArr.readInt();
 
         LOG(
-            "CM",
+            "Clan Chat",
             `${playerName} (${playerId}, ${playerClanRank}): ${playerMessage}`
         );
 
