@@ -29,7 +29,16 @@ npm run p4
 
 # My motivation
 
-<p>"Nyaa can't even code"</p>
+<ul>
+    <li>
+        <p>"Nyaa can't even code"</p> ~ Victor
+    </li>
+    <li>
+        To avenge my first ever account that that was banned for no reason. (12409385)
+        I spent many years on it.
+        U know, this all wouldn't be happening if this ban hadn't happened !!
+    </li>
+</ul>
 
 # Commands (<> = required, [] = optional, | = OR)
 
