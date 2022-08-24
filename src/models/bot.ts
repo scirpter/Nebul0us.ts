@@ -292,7 +292,6 @@ class Bot {
     }
 
     public setName(name: string): void {
-        // might desync and cause confusion in lobby playerlist
         for (let bot of this.app.bots) {
             for (let player in bot.world.players) {
                 let pl = bot.world.players[player];
