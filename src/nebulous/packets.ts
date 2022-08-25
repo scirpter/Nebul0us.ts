@@ -1037,7 +1037,6 @@ export class GameUpdate extends Packet {
 
                 for (let player of players) {
                     player.recombineTime = L[i25];
-                    // check if player.blobs is empty
                     player.blobs = {};
                 }
 

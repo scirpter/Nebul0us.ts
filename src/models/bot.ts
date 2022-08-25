@@ -226,6 +226,7 @@ class Bot {
                         } else {
                             this.targetPlasma(player);
                         }
+                        this.split();
                     } else if (
                         this.emotionalSupportPlayerID ||
                         this.emotionalSupportPlayerName
