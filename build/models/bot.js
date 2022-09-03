@@ -119,12 +119,12 @@ class Bot {
                                 let distY = targetPos.y - pos.y;
                                 let angle = Math.atan2(distY, distX);
                                 this.move(angle, 1);
+                                this.split();
                             }
                         }
                         else {
                             this.targetPlasma(player);
                         }
-                        this.split();
                     }
                     else if (this.emotionalSupportPlayerID ||
                         this.emotionalSupportPlayerName) {
@@ -407,6 +407,7 @@ class Bot {
             let distY = coin["y"] - pos["y"];
             let angle = Math.atan2(distY, distX);
             this.move(angle, 1);
+            this.split();
         }
     }
     actionBattleRoyale() {

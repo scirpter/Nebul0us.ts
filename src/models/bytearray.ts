@@ -213,7 +213,7 @@ class ByteArray {
     }
 
     public readFloat(): number {
-        let float = this.data.readFloatLE(this.offset); // from BE to LE, might be faulty
+        let float = this.data.readFloatBE(this.offset);
         this.offset += 4;
         return float;
     }
@@ -242,6 +242,17 @@ class ByteArray {
             ((this.readByte() & 255) << 16) +
             ((this.readByte() & 255) << 8) +
             (this.readByte() & 255)
+        );
+    }
+
+    public b(f10: number): number {
+        return (
+            ((f10 - 0.0) *
+                (((this.readByte() & 255) << 16) +
+                    ((this.readByte() & 255) << 8) +
+                    ((this.readByte() & 255) << 0))) /
+                1.6777215e7 +
+            0.0
         );
     }
 

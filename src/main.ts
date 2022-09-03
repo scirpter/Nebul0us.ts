@@ -127,6 +127,8 @@ function main(): void {
                     }
                     break;
 
+                // implement setplasmameta main script
+
                 case "plasmafor":
                     if (!commandArgsArray.length) {
                         bot.plasmaFarmTargetName = null;

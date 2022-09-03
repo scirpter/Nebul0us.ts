@@ -42,7 +42,7 @@ class App {
             if (err) {
                 console.log(err);
             }
-            for (let line in data.split("\n")) {
+            for (let line of data.split("\n")) {
                 line = line.trim();
                 if (line.startsWith("!") ||
                     line.startsWith("#") ||

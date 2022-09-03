@@ -197,7 +197,7 @@ class ByteArray {
         return int;
     }
     readFloat() {
-        let float = this.data.readFloatLE(this.offset);
+        let float = this.data.readFloatBE(this.offset);
         this.offset += 4;
         return float;
     }
@@ -222,6 +222,14 @@ class ByteArray {
         return (((this.readByte() & 255) << 16) +
             ((this.readByte() & 255) << 8) +
             (this.readByte() & 255));
+    }
+    b(f10) {
+        return (((f10 - 0.0) *
+            (((this.readByte() & 255) << 16) +
+                ((this.readByte() & 255) << 8) +
+                ((this.readByte() & 255) << 0))) /
+            1.6777215e7 +
+            0.0);
     }
     I(f, f2) {
         return ((this.readShort() & 65535) * (f2 - f)) / 65535.0 + f;

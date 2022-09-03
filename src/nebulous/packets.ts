@@ -801,7 +801,7 @@ export class GameUpdate extends Packet {
 
     public parse(): void {
         let bArr = new ByteArray(this.data);
-        bArr.readByte(); // ff
+        bArr.readByte(); // ff or 00
 
         let tick = bArr.readByte();
 
