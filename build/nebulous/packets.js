@@ -536,14 +536,14 @@ class GameData extends Packet {
     parse() {
         let bArr = new bytearray_1.default(this.data);
         let a = bArr.readInt();
-        let readFloat = bArr.readFloat();
-        let playerCount = bArr.readByte();
+        let mapSize = bArr.readFloat();
+        let playerct = bArr.readByte();
         let ejectionCount = bArr.readByte();
-        let j = bArr.readShort();
-        let dotCount = bArr.readShort();
-        let m = bArr.readByte();
+        let staticDotStartID = bArr.readShort();
+        let dotct = bArr.readShort();
+        let staticItemStartID = bArr.readByte();
         let itemCount = bArr.readByte();
-        for (let i = 0; i < playerCount; i++) {
+        for (let i = 0; i < playerct; i++) {
             let player = {};
             let id = bArr.readByte();
             player["b"] = bArr.readShort();
@@ -597,24 +597,24 @@ class GameData extends Packet {
         for (let i = 0; i < ejectionCount; i++) {
             let ejection = {};
             let id = bArr.readByte();
-            ejection["x"] = bArr.q(0.0, readFloat);
-            ejection["y"] = bArr.q(0.0, readFloat);
+            ejection["x"] = bArr.q(0.0, mapSize);
+            ejection["y"] = bArr.q(0.0, mapSize);
             ejection["mass"] = bArr.q(0.0, 500000.0);
             this.bot.world.ejections[id] = ejection;
         }
-        for (let i = 0; i < dotCount; i++) {
+        for (let i = 0; i < dotct; i++) {
             let dot = {};
-            let id = j + i;
-            dot["x"] = bArr.q(0.0, readFloat);
-            dot["y"] = bArr.q(0.0, readFloat);
+            let id = staticDotStartID + i;
+            dot["x"] = bArr.q(0.0, mapSize);
+            dot["y"] = bArr.q(0.0, mapSize);
             this.bot.world.dots[id] = dot;
         }
         for (let i = 0; i < itemCount; i++) {
             let item = {};
-            let id = m + i;
+            let id = staticItemStartID + i;
             item["type"] = all_1.ItemType[bArr.readByte()];
-            item["x"] = bArr.q(0.0, readFloat);
-            item["y"] = bArr.q(0.0, readFloat);
+            item["x"] = bArr.q(0.0, mapSize);
+            item["y"] = bArr.q(0.0, mapSize);
             this.bot.world.items[id] = item;
         }
     }

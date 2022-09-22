@@ -31,8 +31,8 @@ function main(): void {
 
     let executedAsOneBot = false;
     let _singleIssuerName: string | undefined = undefined;
-
-    async function RECURSECMD() {
+	
+	async function RECURSECMD() {
         let response = await prompts({
             type: "text",
             name: "command",
