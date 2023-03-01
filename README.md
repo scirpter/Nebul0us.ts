@@ -1,4 +1,5 @@
-# DEPRECATED
+# Nebul0us
+Networked Nebulous.io cheat made from reverse engineering the minified Java source code.
 
-This version was patched in **6.0.3**.
-New version is not available to the public.
+# DEPRECATED
+Active versions were "fixed" in update **6.0.3**. Newer versions will not be released public.
