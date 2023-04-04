@@ -1,5 +1,5 @@
 # Nebul0us
-Networked Nebulous.io cheat made from reverse engineering the minified Java source code.
+Nebul0us is a completely external, networked Nebulous.io cheat made from reverse engineering their UDP networking code.
 
 <br />
 
